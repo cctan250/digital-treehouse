@@ -1,6 +1,6 @@
 # Digital Treehouse
 
-A digital sovereignty solution that empowers households and individuals to gain control over their digital lives.
+A digital sovereignty solution that empowers households to gain control over their digital lives.
 
 ## Project Structure
 - `src/unity`: Unity frontend implementation
